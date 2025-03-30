@@ -46,4 +46,3 @@ This Python program performs two main tasks:
 - Program assumes valid integer inputs for numbers
 - Division by zero will raise an error
 - No input validation is implemented
-- Current date: March 29, 2025
